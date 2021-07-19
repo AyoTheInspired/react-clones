@@ -1,0 +1,12 @@
+[submodule "spotify-clone"]
+	path = spotify-clone
+	url = https://github.com/AyoTheInspired/spotify-clone
+[submodule "tesla-clone"]
+	path = tesla-clone
+	url = https://github.com/AyoTheInspired/tesla-clone
+[submodule "slack-clone"]
+	path = slack-clone
+	url = https://github.com/AyoTheInspired/slack-clone
+[submodule "netflix-clone"]
+	path = netflix-clone
+	url = https://github.com/AyoTheInspired/netflix-clone
